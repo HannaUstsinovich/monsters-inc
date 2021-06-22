@@ -2,7 +2,7 @@
   "name": "react-course",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hannaustinovich.github.io/monsters-inc",
+  "homepage": "https://hannaustsinovich.github.io/monsters-inc",
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
